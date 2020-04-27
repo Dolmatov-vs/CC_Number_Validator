@@ -16,9 +16,25 @@
 * [Программный код указанный в задании 2](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 * [Образец отчета тестирвования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/report.md)
 
-В качестве тестовых данных использовались данные фейковых карт Visa, MC, MIR и Maestro взятых с [сайта](https://developer.rbk.money/docs/payments/refs/testcards/):
-* Visa 4242424242424242 - Result is OK
-* MasterCard 5555555555554444 - Result is OK
+В качестве тестовых данных использовались данные фейковых карт Visa, MC, MIR и Maestro взятых с [сайта](https://names.igopaygo.com/ru/%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D1%8B):
+* Visa 
+4929465446528734 - Result is OK
+4929465446528734 - Result is OK
+4026652125759654 - Result is OK
+4556288688590711 - Result is OK
+4916852733367469 - Result is OK
+4844117353554987 - Result is OK
+
+* MasterCard 
+5598681802613210 - Result is OK
+5215752137294282 - Result is OK
+5198491114333620 - Result is OK
+5340388573862940 - Result is OK
+5194408741465348 - Result is OK
+
+
+
+
 * MIR 2201382000000013 - Result is OK
 * Данные карты не заполнены - Result is FAIL
 * Указан номер карты из одно символа 4 - Result is FAIL
