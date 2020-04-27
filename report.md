@@ -32,9 +32,6 @@
 5340388573862940 - Result is OK
 5194408741465348 - Result is OK
 
-
-
-
 * MIR 2201382000000013 - Result is OK
 * Данные карты не заполнены - Result is FAIL
 * Указан номер карты из одно символа 4 - Result is FAIL
